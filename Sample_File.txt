@@ -1,2 +1,10 @@
 Step 1
 	Push to master branch
+
+git clone <link>
+make changes in repo
+git add .
+git commit --> notepad++  --> msg --> save and close
+git status
+git push
+commit logs --> git log
